@@ -53,4 +53,5 @@ def main():
         client_handler.start()
 
 if __name__ == '__main__':
+    # This script is being run directly, not being imported as a module
     main()
