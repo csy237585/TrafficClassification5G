@@ -1,0 +1,173 @@
+https://www.youtube.com/watch?v=63GT1U3IRoQ
+
+sudo tcpdump -i ens33 -w youtube2.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+95899 packets captured
+95912 packets received by filter
+0 packets dropped by kernel
+579 packets dropped by interface
+
+##############################################################
+https://www.youtube.com/watch?v=l4tqxT_OQFQ
+sudo tcpdump -i ens33 -w youtube3.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+43334 packets captured
+43424 packets received by filter
+0 packets dropped by kernel
+298 packets dropped by interface
+##################################################################
+https://www.youtube.com/watch?v=ZC5-tQM_WK4
+ sudo tcpdump -i ens33 -w youtube4.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+48373 packets captured
+48374 packets received by filter
+0 packets dropped by kernel
+4294967223 packets dropped by interface
+####################################################################
+https://www.youtube.com/watch?v=T1rJIpHwQsc
+sudo tcpdump -i ens33 -w youtube5.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+65211 packets captured
+65229 packets received by filter
+0 packets dropped by kernel
+294 packets dropped by interface
+##########################################################################
+https://www.youtube.com/watch?v=wjWcdOusmC8
+ sudo tcpdump -i ens33 -w youtube6.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+54298 packets captured
+54320 packets received by filter
+0 packets dropped by kernel
+67 packets dropped by interface
+################################################################################
+https://www.youtube.com/watch?v=4sW2yD-AcGI
+sudo tcpdump -i ens33 -w youtube7.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+3499 packets captured
+3512 packets received by filter
+0 packets dropped by kernel
+4294966992 packets dropped by interface
+################################################################################
+https://www.youtube.com/watch?v=brlKeu8B9lo
+sudo tcpdump -i ens33 -w youtube8.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+50720 packets captured
+50797 packets received by filter
+0 packets dropped by kernel
+763 packets dropped by interface
+#######################################################################
+https://www.youtube.com/watch?v=ZIpEZooctkA
+sudo tcpdump -i ens33 -w youtube9.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+32999 packets captured
+32999 packets received by filter
+0 packets dropped by kernel
+437 packets dropped by interface
+#############################################################################S
+https://www.youtube.com/watch?v=kuVQPf_CyGY
+sudo tcpdump -i ens33 -w youtube10.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+36733 packets captured
+36734 packets received by filter
+0 packets dropped by kernel
+4294967059 packets dropped by interface
+###################################################################################
+https://www.youtube.com/watch?v=zm-9qFgYhOA
+sudo tcpdump -i ens33 -w youtube11.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+23731 packets captured
+23733 packets received by filter
+0 packets dropped by kernel
+231 packets dropped by interface
+#####################################################################################
+https://www.youtube.com/watch?v=OsQdBZ_pw6k
+sudo tcpdump -i ens33 -w youtube12.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+28122 packets captured
+28123 packets received by filter
+0 packets dropped by kernel
+61 packets dropped by interface
+#####################################################################################
+https://www.youtube.com/watch?v=HSq8SKXrIZ8
+sudo tcpdump -i ens33 -w youtube13.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+23799 packets captured
+23827 packets received by filter
+0 packets dropped by kernel
+68 packets dropped by interface
+####################################################################################
+https://www.youtube.com/watch?v=_V-N8LmOhi4
+sudo tcpdump -i ens33 -w youtube14.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+24577 packets captured
+24581 packets received by filter
+0 packets dropped by kernel
+238 packets dropped by interface
+#################################################################################
+https://www.youtube.com/watch?v=IoD5yEbEnjU
+sudo tcpdump -i ens33 -w youtube15.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+29896 packets captured
+29949 packets received by filter
+0 packets dropped by kernel
+4294967250 packets dropped by interface
+###########################################################################
+https://www.youtube.com/watch?v=LXb3EKWsInQ
+sudo tcpdump -i ens33 -w youtube16.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+58675 packets captured
+58708 packets received by filter
+0 packets dropped by kernel
+190 packets dropped by interface
+############################################################################
+https://www.youtube.com/watch?v=KJwYBJMSbPI
+sudo tcpdump -i ens33 -w youtube17.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+36167 packets captured
+36172 packets received by filter
+0 packets dropped by kernel
+796 packets dropped by interface
+######################################################################################
+https://www.youtube.com/watch?v=n9LgeoJE4EI
+sudo tcpdump -i ens33 -w youtube18.pcap
+[sudo] password for host: 
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+^C44890 packets captured
+44907 packets received by filter
+0 packets dropped by kernel
+827 packets dropped by interface
+###########################################################################################
+https://www.youtube.com/watch?v=sHf1qmn8HF0
+sudo tcpdump -i ens33 -w youtube19.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+17332 packets captured
+17335 packets received by filter
+0 packets dropped by kernel
+76 packets dropped by interface
+###########################################################################################S
+https://www.youtube.com/watch?v=R4vy0hQEnGw
+ sudo tcpdump -i ens33 -w youtube20.pcap
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+63555 packets captured
+63574 packets received by filter
+0 packets dropped by kernel
+1149 packets dropped by interface
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
